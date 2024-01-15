@@ -1,2 +1,2 @@
 # surfApp
-project for androaid
+project for android
